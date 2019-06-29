@@ -1,3 +1,47 @@
 .App {
   text-align: center;
 }
+
+.link {
+  text-decoration: none;
+  background-color: deepskyblue;
+  color: white;
+  padding: 10px;
+  margin: 30px;
+  font-size: 2rem;
+
+}
+
+.link:hover {
+  background-color: white;
+  color: deepskyblue;
+}
+
+.Smurfs {
+  background-image: url('https://i.pinimg.com/originals/b9/4c/c9/b94cc9753e674518e4bb3ef1bc3fd9f3.jpg');
+  color: white;
+}
+
+.Smurfs h1 {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8IkoxXttEYDfuE1P1HiZygXh6vt5VShaPJXjb__2xAgd3yJI');
+  color:white;
+  padding:50px;
+}
+
+.SmurfForm {
+  outline: 2px solid black;
+  width: 300px;
+  margin: 20px auto;
+}
+
+.SmurfForm input {
+  margin: 20px;
+}
+
+.SmurfForm button{
+  margin: 10px;
+  padding: 4px;
+  background-color: deepskyblue;
+  color:white;
+  border:1px solid #dedede;
+}
